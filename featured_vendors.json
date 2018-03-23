@@ -1,0 +1,41 @@
+
+{
+  "featured": [
+    {
+      "vendorId": 175062,
+      "vendorName": "Bacchus",
+      "cityAndState": "Mountain View, CA",
+      "vendorDiscoverabilityType": "BROWSE_PRODUCTS_WITH_REQUEST",
+      "vendorType": "FEATURED",
+      "categories": ["categories1","categories2","categories3"],
+      "photoUrl": "https://s3-us-west-2.amazonaws.com/improvoniatest/new+folder/default.png"
+    },
+    {
+      "vendorId": 175069,
+      "vendorName": "Metro Cellars",
+      "cityAndState": "Mountain View, CA",
+      "vendorDiscoverabilityType": "BROWSE_PRODUCTS_WITH_REQUEST",
+      "vendorType": "FEATURED",
+      "categories": ["categories1","categories2","categories3"],
+      "photoUrl": "https://s3-us-west-2.amazonaws.com/improvoniatest/new+folder/default.png"
+    },
+    {
+      "vendorId": 174715,
+      "vendorName": "greenstreet Roasters",
+      "cityAndState": "Mountain View, CA",
+      "vendorDiscoverabilityType": "BROWSE_PRODUCTS_WITH_REQUEST",
+      "vendorType": "FEATURED",
+      "categories": ["categories1","categories2","categories3"],
+      "photoUrl": "https://s3-us-west-2.amazonaws.com/improvoniatest/new+folder/default.png"
+    },
+    {
+      "vendorId": 175068,
+      "vendorName": "Lanterna",
+      "cityAndState": "Mountain View, CA",
+      "vendorDiscoverabilityType": "BROWSE_PRODUCTS_WITH_REQUEST",
+      "vendorType": "FEATURED",
+      "categories": ["categories1","categories2","categories3"],
+      "photoUrl": "https://s3-us-west-2.amazonaws.com/improvoniatest/new+folder/default.png"
+    }
+  ]
+}

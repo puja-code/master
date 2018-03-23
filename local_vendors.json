@@ -1,0 +1,41 @@
+
+{
+  "local": [
+    {
+      "vendorId": 175073,
+      "vendorName": "Winebow",
+      "cityAndState": "Mountain View, CA",
+      "vendorDiscoverabilityType": "BROWSE_PRODUCTS_WITH_REQUEST",
+      "vendorType": "LOCAL",
+      "categories": ["categories1","categories2","categories3"],
+      "photoUrl": "https://s3-us-west-2.amazonaws.com/improvoniatest/new+folder/default.png"
+    },
+    {
+      "vendorId": 175072,
+      "vendorName": "Washington Wholesale",
+      "cityAndState": "Mountain View, CA",
+      "vendorDiscoverabilityType": "BROWSE_PRODUCTS_WITH_REQUEST",
+      "vendorType": "LOCAL",
+      "categories": ["categories1","categories2","categories3"],
+      "photoUrl": "https://s3-us-west-2.amazonaws.com/improvoniatest/new+folder/default.png"
+    },
+    {
+      "vendorId": 175070,
+      "vendorName": "Vinifera",
+      "cityAndState": "Mountain View, CA",
+      "vendorDiscoverabilityType": "BROWSE_PRODUCTS_WITH_REQUEST",
+      "vendorType": "LOCAL",
+      "categories": ["categories1","categories2","categories3"],
+      "photoUrl": "https://s3-us-west-2.amazonaws.com/improvoniatest/new+folder/default.png"
+    },
+    {
+      "vendorId": 175067,
+      "vendorName": "CRAFT",
+      "cityAndState": "Mountain View, CA",
+      "vendorDiscoverabilityType": "BROWSE_PRODUCTS_WITH_REQUEST",
+      "vendorType": "LOCAL",
+      "categories": ["categories1","categories2","categories3"],
+      "photoUrl": "https://s3-us-west-2.amazonaws.com/improvoniatest/new+folder/default.png"
+    }
+  ]
+}
